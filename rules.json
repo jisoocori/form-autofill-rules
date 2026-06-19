@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.3",
   "rules": [
-    { "field": "realname",     "kw": ["이름","성명","name","신청자","담당자","작성자","고객명","성함","리뷰어명","수취인명","계정주명","작성자명"] },
+    { "field": "nickname",     "kw": ["닉네임","쿠팡닉네임","계정명","리뷰어명","보이는 이름"] },
+    { "field": "realname",     "kw": ["이름","성명","name","신청자","담당자","작성자","고객명","성함","수취인명","계정주명","작성자명","주문자"] },
     { "field": "phone",        "kw": ["연락처","전화번호","전화","phone","tel","핸드폰","휴대폰","휴대전화","mobile"] },
     { "field": "email",        "kw": ["이메일","email","e-mail","mail","메일"] },
     { "field": "address",      "kw": ["주소","address","거주지","배송","도로명"] },
-    { "field": "birth",        "kw": ["생년월일","생년","생일","birth","출생","birthday"] },
     { "field": "accountNum",   "kw": ["계좌번호","통장번호","계좌"] },
     { "field": "bankName",     "kw": ["은행명","은행"] },
     { "field": "accountOwner", "kw": ["예금주명","예금주"] }
