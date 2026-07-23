@@ -7,7 +7,7 @@
     { "field": "email",        "kw": ["이메일","email","e-mail","mail","메일","아이디","계정","플랫폼 아이디"] },
     { "field": "address",      "kw": ["주소","address","거주지","배송","도로명","주소(상세주소포함 오배송시 내돈내산)"] },
     { "field": "accountNum",   "kw": ["계좌번호","통장번호","계좌"] },
-    { "field": "bankName",     "kw": ["은행명","은행"] },
+    { "field": "bankName",     "kw": ["은행명","은행","은행명 + 계좌번호(-포함) + 예금주명"] },
     { "field": "accountOwner", "kw": ["예금주명","예금주"] }
   ]
 }
